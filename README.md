@@ -11,16 +11,9 @@ and license notice below.
 
 ## Viewing and running
 
-Copies of the notebooks are hosted on the Microsoft Azure cloud service:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CambridgeEngineering/PartIA-Computing-Michaelmas)
 
-https://notebooks.azure.com/garth-wells/libraries/CUED-IA-Computing-Michaelmas
-
-It is recommended that you use the notebooks via the above link.
-
-Note that when 'viewing' the rendered notebooks on the Azure service
-there may be some display artefacts. For the best experience, 'clone'
-the library to use the notebooks in a Jupyter environment.
-
+Cambridge users should use their University credentials (CRSid) to log in.
 
 ## Getting started
 
@@ -30,12 +23,9 @@ Term computing](00%20Part%20IA%20Michaelmas%20Term%20computing.ipynb). Model
 solutions to the exercises are available - contact [Garth N.
 Wells](<gnw20@cam.ac.uk>) to request the solutions.
 
-Cambridge students/staff: When prompted to sign in to the Azure
-notebook service, use your University of Cambridge email address,
+Cambridge students/staff: When prompted to sign in to the Google
+Colaboratory service, use your University of Cambridge email address,
 e.g. `crsid@cam.ac.uk`.
-
-Others: Create an account on https://notebooks.azure.com to use the
-notebooks interactively.
 
 
 ## Accompanying exercises
@@ -56,7 +46,8 @@ https://github.com/CambridgeEngineering/PartIA-Computing-Michaelmas/issues
 
 ## Author
 
-These notebooks are developed by Garth N. Wells (<gnw20@cam.ac.uk>).
+These notebooks are developed by Garth N. Wells (@garth-wells,
+<gnw20@cam.ac.uk>).
 
 
 ## Acknowledgements
